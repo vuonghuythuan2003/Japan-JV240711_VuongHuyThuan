@@ -5,34 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48061223-ec5e-4cc2-9d0e-fe94793c470b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/config/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/config/CloundiaryConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/config/CloundiaryConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/config/WebConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/controller/ClassesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/controller/ClassesController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/controller/StudentsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/controller/StudentsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/model/Classes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/model/Classes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/model/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/model/Students.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/repository/ClassesRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/repository/ClassesRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/repository/StudentsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/repository/StudentsRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/repository/imp/ClassesRepositoryImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/repository/imp/ClassesRepositoryImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/repository/imp/StudentsRepositoryImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/repository/imp/StudentsRepositoryImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/service/ClassesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/service/ClassesService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/service/StudentsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/service/StudentsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/service/UploadFileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/service/UploadFileService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/service/imp/ClassesServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/service/imp/ClassesServiceImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/service/imp/StudentsServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/service/imp/StudentsServiceImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/service/imp/UploadFileServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/service/imp/UploadFileServiceImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/createClasses.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/createClasses.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/createStudent.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/createStudent.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/listClasses.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/listClasses.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/listStudents.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/listStudents.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/updateClasses.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/updateClasses.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/updateStudent.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/updateStudent.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +173,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734003091206</updated>
-      <workItem from="1734003092239" duration="10099000" />
+      <workItem from="1734003092239" duration="10564000" />
     </task>
     <servers />
   </component>
