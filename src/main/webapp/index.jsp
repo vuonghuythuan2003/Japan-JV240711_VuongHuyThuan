@@ -8,6 +8,8 @@
 <h1><%= "Hello World!" %>
 </h1>
 <br/>
-<a href="hello-servlet">Hello Servlet</a>
+<a href="<%=request.getContextPath()%>/classesController/findAll">Danh sách lớp học</a>
+<a href="<%=request.getContextPath()%>/studentsController/findAll">Danh sách sinh viên</a>
+
 </body>
 </html>

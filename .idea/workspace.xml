@@ -4,33 +4,186 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48061223-ec5e-4cc2-9d0e-fe94793c470b" name="Changes" comment="" />
+    <list default="true" id="48061223-ec5e-4cc2-9d0e-fe94793c470b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/config/CloundiaryConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/config/CloundiaryConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/controller/ClassesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/controller/ClassesController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/controller/StudentsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/controller/StudentsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/model/Classes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/model/Classes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/model/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/model/Students.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/repository/ClassesRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/repository/ClassesRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/repository/StudentsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/repository/StudentsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/repository/imp/ClassesRepositoryImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/repository/imp/ClassesRepositoryImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/repository/imp/StudentsRepositoryImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/repository/imp/StudentsRepositoryImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/service/ClassesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/service/ClassesService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/service/StudentsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/service/StudentsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/service/UploadFileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/service/UploadFileService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/service/imp/ClassesServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/service/imp/ClassesServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/service/imp/StudentsServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/service/imp/StudentsServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/crud/service/imp/UploadFileServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/crud/service/imp/UploadFileServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/createClasses.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/createClasses.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/createStudent.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/createStudent.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/listClasses.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/listClasses.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/listStudents.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/listStudents.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/updateClasses.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/updateClasses.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/updateStudent.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/updateStudent.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
   <component name="ProjectId" id="2q7A9XLBnCzfOn9KmyzEz53zBXg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.Build Exam_JavaCore_Webapp.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Tomcat Server.Tomcat 9.0.961.executor": "Run",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.961" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.961" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="hot-swap-classes" />
+      <deployment>
+        <artifact name="Gradle : ra : crud-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="77f7c5af-12a3-46db-a65b-5e3ef0cd1e7e" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="65299" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : ra : crud-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -47,7 +200,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734003091206</updated>
-      <workItem from="1734003092239" duration="3000" />
+      <workItem from="1734003092239" duration="10099000" />
     </task>
     <servers />
   </component>
